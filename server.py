@@ -15,6 +15,7 @@ def logg(it):
     f.write(it)
     f.close()
 
+
 conf = open('config.json','r').read()
 jsconf = json.loads(conf)
 HOST = jsconf["HOST"]
