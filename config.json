@@ -1,0 +1,6 @@
+{
+  "HOST":"localhost",
+  "PORT":"5008",
+  "NUMBER":"100",
+  "BUFFER":"100000"
+}
